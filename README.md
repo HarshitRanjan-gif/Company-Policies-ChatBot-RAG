@@ -4,7 +4,7 @@ An AI-powered Company Policy Chatbot that answers employee queries using a compa
 
 ## 🖥️ Live Demo
 
-https://company-policies-chatbot-d4ntyopwv6yk7tekn5m53g.streamlit.app/
+[Open App](https://company-policies-chatbot-d4ntyopwv6yk7tekn5m53g.streamlit.app/)
 
 ## 🚀 Features
 
