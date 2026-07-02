@@ -2,6 +2,10 @@
 
 An AI-powered Company Policy Chatbot that answers employee queries using a company's HR policy document. The chatbot uses semantic search with vector embeddings to retrieve the most relevant information and generates responses using the Groq Llama 3.1 language model.
 
+## 🖥️ Live Demo
+
+https://company-policies-chatbot-d4ntyopwv6yk7tekn5m53g.streamlit.app/
+
 ## 🚀 Features
 
 - AI-powered HR policy question answering
